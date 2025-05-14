@@ -1,0 +1,14 @@
+{
+    "type": "SurgeConveyor",
+    "name": "Surge Alloy Conveyor",
+    "category": "distribution",
+    "health": 130,
+    "speed": 0.32,
+    "displayedSpeed": 44,
+    "requirements": [
+        {"item": "surge alloy", "amount": 1},
+        {"item": "lead", "amount": 2},
+        {"item": "thorium", "amount": 5}
+    ],
+    "research": "titanium-conveyor"
+}
