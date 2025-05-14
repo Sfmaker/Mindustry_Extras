@@ -1,0 +1,14 @@
+{
+    "type": "ThoriumConveyor",
+    "name": "Thorium Conveyor ",
+    "category": "distribution",
+    "health": 360,
+    "speed": 0.16,
+    "displayedSpeed": 22,
+    "requirements": [
+        {"item": "thorium", "amount": 1},
+        {"item": "titanium", "amount": 1},
+        {"item": "lead", "amount": 3}
+    ],
+    "research": "thorium-conveyor"
+}
