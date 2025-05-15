@@ -1,6 +1,7 @@
 {
-    "type": "ThoriumConveyor",
+    "type": "ItemBridge",
     "name": "Thorium Conveyor ",
+    "description": "When Titanium conveyors are not enough",
     "category": "distribution",
     "health": 360,
     "speed": 0.16,

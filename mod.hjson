@@ -2,7 +2,7 @@
     "name": "mindustryextras",
     "displayName": "Mindustry Extras",
     "author": "Sfmaker",
-    "description": "Many things",
+    "description": "Some things",
     version: "0.2"
-minGameVersion: "146"
+    minGameVersion: "146"
 }
