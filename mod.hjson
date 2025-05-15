@@ -1,0 +1,8 @@
+{
+    "name": "mindustryextras",
+    "displayName": "Mindustry Extras",
+    "author": "Sfmaker",
+    "description": "Many things",
+    version: "0.2"
+minGameVersion: "146"
+}
